@@ -11,3 +11,5 @@ Pontos fortes
 -Vantagem com automações
 
 -Compreensão do try e except
+
+-Facilidade com cálculos
