@@ -1,5 +1,4 @@
 
-    conteudo = Currículo
 
 ### 🧠 Um pouco sobre mim
 Meu nome é **Davi**, tenho **16 anos**, estou no **1° ano do ensino médio** e estou em busca do meu **primeiro emprego**.
